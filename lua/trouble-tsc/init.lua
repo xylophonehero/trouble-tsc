@@ -1,5 +1,5 @@
 -- init.lua
-local core = require("my_ts_diagnostics.core")
+local core = require("trouble-tsc.core")
 
 local function setup_commands()
 	-- User command to run the tsc and load into Trouble
